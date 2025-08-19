@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning Computer And Information Science in Mansoura University
+- 🔭 I’m currently working on Frontend (Reactjs - Nextjs )
+- 🌱 I’m Fresh Graduate Computer And Information Science in Mansoura University
+- 
 - <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
